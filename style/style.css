@@ -1,0 +1,25 @@
+head {
+	font-family: Helvetica;
+}
+body {
+	color: green;
+}
+
+body {
+	background: pink;
+	color:grey;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+footer {
+		margin: auto;
+	}
+
+.gold {
+	font-family: Cursive;
+}
+
+#description {
+	text-shadow: black;
+}
